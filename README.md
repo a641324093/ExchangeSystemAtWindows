@@ -14,7 +14,8 @@ IDE：NetBeans
  - 交换单管理
  - 留言
  - 种类、区域划分
- 
+ - 上传的图片会存储到 C:/Temp/ExSystem/
+
 ## 配置
  这是Windows的客户端，需要先把服务器运行起来才能运行。
  服务端地址：https://github.com/a641324093/ExchangeSystemServer
