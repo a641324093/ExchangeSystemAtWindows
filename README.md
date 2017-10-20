@@ -15,7 +15,7 @@ IDE：NetBeans
  - 留言
  - 种类、区域划分
  
- ##配置
+## 配置
  这是Windows的客户端，需要先把服务器运行起来才能运行。
  服务端地址：https://github.com/a641324093/ExchangeSystemServer
 
