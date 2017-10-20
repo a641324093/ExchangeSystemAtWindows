@@ -26,7 +26,7 @@ IDE：NetBeans
 
 ## 联系方式
 email：641324093@qq.com  
-github:https://github.com/a641324093/ExchangeSystemAtWindows
+github:https://github.com/a641324093
 欢迎大家一同来交流学习。
 
 
