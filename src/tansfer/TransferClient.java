@@ -8,8 +8,8 @@ import javax.swing.JOptionPane;
 
 public class TransferClient extends Thread{
     private TransferClientSocket cs = null;
-    private String ip = "127.0.0.1";
-    private int port =TransferServer.PORT;
+    private static final String IP = "127.0.0.1";
+    private static final int PORT =TransferServer.PORT;
     private String sendMessage = "Windwos";
     //保存的路径不包括文件名
     private String des_path;
@@ -31,7 +31,7 @@ public class TransferClient extends Thread{
         }
     }
     private boolean createConnection() {
-        cs = new TransferClientSocket(ip, port);
+        cs = new TransferClientSocket(IP, PORT);
         try {
             cs.CreateConnection();
             return true;
