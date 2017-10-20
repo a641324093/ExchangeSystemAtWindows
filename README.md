@@ -1,8 +1,8 @@
 # ExchangeSystemAtWindows 物品交换平台Windows客户端
 
 ## 截图
-![菜单](https://github.com/a641324093/ExchangeSystemAtWindows/raw/master/mdImg/mian_menu.jpg)
-![游戏中](https://github.com/a641324093/ExchangeSystemAtWindows/raw/master/mdImg/show_frame.jpg)
+![主菜单](https://github.com/a641324093/ExchangeSystemAtWindows/raw/master/mdImg/main_menu.png)
+![详情界面](https://github.com/a641324093/ExchangeSystemAtWindows/raw/master/mdImg/show_frame.png)
 ## 开发平台
 语言：Java  
 IDE：NetBeans 
