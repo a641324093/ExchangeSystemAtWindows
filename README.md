@@ -1,4 +1,5 @@
-# ExchangeSystemAtWindows 物品交换平台Windows客户端
+# ExchangeSystemAtWindows
+> 物品交换平台Windows客户端
 
 ## 截图
 ![主菜单](https://github.com/a641324093/ExchangeSystemAtWindows/raw/master/mdImg/main_menu.png)
